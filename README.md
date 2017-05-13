@@ -3,4 +3,4 @@ My first game in Unity. SpaceShooter is an iOS mobile game that works with the a
 
 ## Screenshots
 
-![alt tag](http://imgur.com/a/yzqdG)
+![alt tag](http://i.imgur.com/7309yjs.png)
