@@ -1,5 +1,5 @@
 # Space-Shooter
-My first game in Unity. SpaceShooter is an iOS mobile game that works with the accelerometer of your phone.
+My first game in Unity. SpaceShooter is an iOS mobile game that works with accelerometer input.
 
 ## Screenshots
 
