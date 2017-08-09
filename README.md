@@ -1,6 +1,6 @@
-# Space-Shooter
-SpaceShooter is an iOS mobile game made with Unity that works with accelerometer of your phone to control the player.
+# Space Shooter
+Space Shooter is an iOS mobile game made in Unity that works with accelerometer of your phone to control the player.
 
-## Screenshots
+## Images
 
-![alt tag](http://i.imgur.com/7309yjs.png)
+![alt tag](http://i.imgur.com/cIkZG80.jpg)
