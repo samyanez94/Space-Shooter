@@ -1,7 +1,7 @@
 # Space Shooter
-This project follows on [Unity Space Shooter Tutorial](https://unity3d.com/learn/tutorials/s/space-shooter-tutorial). It's a simple top-down arcade-style shooter game with a space theme. You can control a spaceship using the accelerometer on your device and defeat waves of enemies and asteroids. 
+This project follows on the [Unity Space Shooter Tutorial](https://unity3d.com/learn/tutorials/s/space-shooter-tutorial). It's a simple top-down arcade-style shooter game with a space theme. You can control a spaceship using the accelerometer on your device and defeat waves of enemies and asteroids. 
 
-The game was made using the Unity engine as a way to understand how to work with imported Mesh Models, Audio, Textures, and Materials.
+The game was made using the Unity gaming engine as a way to understand how to work with imported Mesh Models, Audio, Textures, and Materials.
 
 ## Screenshots
 
