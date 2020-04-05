@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestroyByTime : MonoBehaviour
-{
-
+public class DestroyByTime : MonoBehaviour {
+	
 	public float lifeTime;
 
 	// Used to destroy explotions.
-	void Start ()
-	{
+	void Start () {
 		Destroy (gameObject, lifeTime);
 	}
 }
